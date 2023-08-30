@@ -6,8 +6,9 @@
 
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Lukman350)
 
-- 🔭 I’m currently studying on Senior High School in Jakarta Timur, DKI Jakarta, Indonesia.
-- 🌱 I’m currently learning JavaScript, ReactJS, Python, React Native.
+- I’m graduate from Senior High School in Jakarta Timur, DKI Jakarta, Indonesia.
+- I’m currently learning JavaScript, ReactJS, Python, React Native.
+- I’m currently employed as an IT Support at [PT. Panorama Graha Teknologi](https://panorama.co.id/).
 
 [![](http://i.imgur.com/P3YfQoD.png)](https://facebook.com/lukman.naxxpehar)
 [![](http://i.imgur.com/VlgBKQ9.png)](mailto:nulhakiml725@gmail.com)
