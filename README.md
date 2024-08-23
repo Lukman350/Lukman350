@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [iquranic](https://github.com/Lukman350/iquranic)
 
-- 🌱 I’m currently learning **Flutter, C#**
+- 🌱 I’m currently learning **Java, C#**
 
 - 👨‍💻 All of my projects are available at [https://lukmann.dev](https://lukmann.dev)
 
