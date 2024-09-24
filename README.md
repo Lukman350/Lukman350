@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukman</h1>
-<h3 align="center">I'm a Junior Fullstack Developer based in Jakarta, Indonesia. I have a passion for web development and love to create for mobile and web applications. I'm currently working at Multiintegra Technology Group as a IT Support.</h3>
+<h3 align="center">I'm a Junior Fullstack Developer based in Jakarta, Indonesia. I have a passion for web development and love to create for mobile and web applications. I'm currently working at Multiintegra Technology Group as a Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukman350&label=Profile%20views&color=0e75b6&style=plastic" alt="lukman350" /> </p>
 
