@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=lukman350&label=Profile%20views&color=0e75b6&style=plastic" alt="lukman350" />
 
-- 🔭 I’m currently working on [iquranic](https://github.com/Lukman350/iquranic)
+- 🔭 I’m currently working on [dompetly](https://github.com/Lukman350/dompetly)
 
 - 🌱 I’m currently learning **Java, C#**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react, flutter, nextjs, pawn**
 
-- 📫 How to reach me **lukmann.dev@gmail.com**
+- 📫 How to reach me **me@lukmann.dev**
 
 ### Connect with me:
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/lukman24) [![My Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/lukmaan.24)
